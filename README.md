@@ -1,0 +1,5 @@
+- 👋 Hi, I'm Nuno
+- 👀 I'm passionate about everything related to informatics, especially development.
+- 🌱 I'm learning Java
+- 💞️ I am not interested in collaboration
+- 📫 Contact me: @nunoloizeaudev in twitter and Nuno#9948 in Discord.
